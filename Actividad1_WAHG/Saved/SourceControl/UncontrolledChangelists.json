@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/MainMap.umap",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Maps/MainMap.umap",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/background.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/background_Sprite.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_PlayerPawn.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/enemyGreen4.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/enemyGreen4_Sprite.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/laserRed01.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/laserRed01_Sprite.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/playerShip2_red.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/playerShip2_red_Sprite.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_PlayerPawnSpace.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_PlayerControllerSpace.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_GameModeSpace.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_Laser.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/IA_FireLaser.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/IMC_DefaultLayout.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_EnemyPawn.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_EnemySpawner.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_GameStateSpace.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/WBP_MainUI.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/IA_Restart.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Sounds/SBP_GameOver.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Sounds/SBP_Laser.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Sounds/SBP_Background.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Sounds/SBP_Laser1.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Sounds/SBP_Laser2.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Fonts/kenvector_future.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Fonts/kenvector_future_Font.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/WBP_MenuPause.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/vidas.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/VidasHud.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_Space_Shooter_GameWidget.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_Space_Shooter_HUD.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_EnemyPawn1.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/BP_EnemySpawner1.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Blueprints/IA_Pause.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/enemyBlue1.uasset",
+				"C:/Users/Ordenador/Documents/Unreal Projects/Actividad1_WAHG/Content/Textures/enemyBlue1_Sprite.uasset"
+			]
+		}
+	]
+}
